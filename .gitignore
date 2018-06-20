@@ -8,3 +8,18 @@
 .DS_Store
 */.DS_Store
 
+web3_backup/.babelrc
+web3_backup/.editorconfig
+web3_backup/.eslintignore
+web3_backup/.eslintrc.js
+web3_backup/.postcssrc.js
+web3_vue-typed/index.html
+web3_vue-typed/package-lock.json
+web3_vue-typed/package.json
+web3_vue-typed/README.md
+web3_vue-typed/tsconfig.json
+web3_vue-typed/webpack.config.js
+web3_vue-typed/dist/bundle.js
+web3_vue-typed/src/container.html
+web3_vue-typed/src/container.ts
+web3_vue-typed/src/index.ts
