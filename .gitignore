@@ -1,0 +1,10 @@
+# node_modules
+*/node_modules
+
+# IntelliJ config file
+*/.idea
+
+# General
+.DS_Store
+*/.DS_Store
+
